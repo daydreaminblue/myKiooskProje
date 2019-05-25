@@ -1,7 +1,7 @@
 html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
-  font-family: irs;
+  font-family: irrs;
   background: -webkit-gradient(linear, left top, left bottom, from(#e0a4ab), to(#cb8e95));
   background: linear-gradient(#e0a4ab, #cb8e95);
 }
